@@ -1,2 +1,5 @@
 # hello-world
-Learning how
+
+Hello everyone.
+
+I am a mathematician trying to learn coding. 
